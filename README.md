@@ -5,7 +5,9 @@
 
 ## Gameplay
 Based on real jet-pack / Rocket physics guide the Explorer through the treachery of the cosmos.<br>
-Hunt and find ancient artifacts for your research.<br>
+Hunt and find ancient artifacts for your research.<b>
+
+The universe is a unbelievably dangerous place. No environment is safe. Coming into contact with anything apart from your launch pad, landing pad or artifacts will instantly kill you.
 
 ![](artifactgif.gif)
 
