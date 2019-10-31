@@ -15,8 +15,8 @@ Hunt and find ancient artifacts for your research.<br>
 
 ![](levelselectgif.gif)
 
-<b>Each planet has distinct behaviour, though the controls remain the same the planets have different physics and environments.<br>
-There is a total of 9 planets to explore.<b><br>
+<b>Each planet has distinct behaviour, though the controls remain the same the planets have different physics and environments
+There is a total of 6 planets to explore.<b><br>
 * Desert
 * Moon
 * Jungle
@@ -53,7 +53,7 @@ Purchased on the [Unity Asset Store](https://assetstore.unity.com/). <br>
 * Unity 2019.1.10
 
 ## Contributing
-If you wish the contribute to the final game please email [Me](bruce.pouncey@yahoo.com) with your ideas.
+If you wish the contribute to the final game please email bruce.pouncey@yahoo.com
 
 ## Authors
 * **Bruce Pouncey** - *Initial work* - [BPouncey](https://github.com/BPouncey)
