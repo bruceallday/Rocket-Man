@@ -9,6 +9,10 @@ Hunt and find ancient artifacts for your research.<br>
 
 ![](artifactgif.gif)
 
+## Levels
+
+![](levelselectgif.gif)
+
 Each planet has distinct behaviour, though the controls remain the same the planets have different physics and environments.<br>
 There is a total of 9 planets to explore.<br>
 * Desert
@@ -22,8 +26,6 @@ There is a total of 9 planets to explore.<br>
 
 ## Controls
 Touch the right hand side of the screen to initiate the astronauts boost. Touch the arrows to use the characters RCS thrust.<br>
-
-![](glowinggif.gif)
 
 ## Technologies used
 * C#
