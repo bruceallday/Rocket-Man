@@ -5,9 +5,9 @@
 
 ## Gameplay
 Based on real jet-pack / Rocket physics guide the Explorer through the treachery of the cosmos.<br>
-Hunt and find ancient artifacts for your research.<b>
+Hunt and find ancient artifacts for your research.<br>
 
-The universe is a unbelievably dangerous place. No environment is safe. Coming into contact with anything apart from your launch pad, landing pad or artifacts will instantly kill you.
+<b>The universe is a unbelievably dangerous place. No environment is safe. Coming into contact with anything apart from your launch pad, landing pad or artifacts will instantly kill you.
 
 ![](artifactgif.gif)
 
@@ -27,12 +27,13 @@ There is a total of 9 planets to explore.<br>
 ![](moongif.gif)
 
 ## Controls
-Touch the right hand side of the screen to initiate the astronauts thrust. Touch the arrows to use the characters RCS thrust.<br>
+<b>Touch the right hand side of the screen to initiate the astronauts thrust. Touch the arrows to use the characters RCS thrust.<br>
 
 ## Technologies used
 * C#
-* UNITY 3D 
+* Unity 3D 
 * Git
+* Audacity
 
 ## Assets
 Purchased on the [Unity Asset Store](https://assetstore.unity.com/). <br>
