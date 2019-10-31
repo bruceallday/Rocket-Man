@@ -7,7 +7,7 @@
 Based on real jet-pack / Rocket physics guide the Explorer through the treachery of the cosmos.<br>
 Hunt and find ancient artifacts for your research.<br>
 
-![](artifact.gif)
+![](artifactgif.gif)
 
 Each planet has distinct behaviour, though the controls remain the same the planets have different physics and environments.<br>
 There is a total of 9 planets to explore.<br>
