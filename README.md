@@ -25,7 +25,7 @@ There is a total of 9 planets to explore.<br>
 ![](moongif.gif)
 
 ## Controls
-Touch the right hand side of the screen to initiate the astronauts boost. Touch the arrows to use the characters RCS thrust.<br>
+Touch the right hand side of the screen to initiate the astronauts thrust. Touch the arrows to use the characters RCS thrust.<br>
 
 ## Technologies used
 * C#
@@ -56,9 +56,6 @@ If you wish the contribute to the final game please email [Me](bruce.pouncey@yah
 * **Bruce Pouncey** - *Initial work* - [BPouncey](https://github.com/BPouncey)
 
 ## License
-(MIT)
-
-## Acknowledgments
-[RED Academy](https://github.com/redacademy)
+©BrucePouncey 2019
 
 
